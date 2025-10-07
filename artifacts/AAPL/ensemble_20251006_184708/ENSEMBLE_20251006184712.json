@@ -1,0 +1,1 @@
+{"component_models": ["SMA20", "EMA20", "LSTM"], "weights": "equal", "metrics": {"rmse": 15.641232052154441, "mae": 15.59292231001399, "mape": 6.089998791050206}}
