@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Layer overrides to coexist with MUI */
+@layer base {
+  body { @apply antialiased; }
+}
